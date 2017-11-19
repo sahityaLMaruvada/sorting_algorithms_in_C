@@ -1,0 +1,5 @@
+Bubble Sort:28 comparisions 60 copies
+Insertion Sort:21 comparisions 34 copies
+Counting Sort:0 comparisions 20 copies
+Merge Sort:15 comparisions 48 copies
+Quick Sort:48 comparisions 27 copies
